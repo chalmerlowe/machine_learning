@@ -1,0 +1,109 @@
+-------------------------------------------------------------
+
+0) Introduction: (10 mins - discussion)
+   * Teacher introduction
+   * Agenda overview
+   * Accessing the course material
+     > Individual student environments and course material (notebooks and
+       datafiles) will be hosted in a Jupyter Hub and accessible via the
+       Internet.
+     > Instructions will ALSO be provided in advance for students to install
+       the requisite libraries a) should there be a constraint in accessing the
+       materials online and b) so that students can use the course materials
+       after the course is done.
+
+1) Machine Learning Overview (30 mins)
+   * An overview of machine learning types and techniques
+   * Supervised learning
+   * Unsupervised learning
+   * Classification
+   * Regression
+   * Clustering
+   * Dimensionality reduction
+   * Intro to Scikit-Learn
+
+2) Naive bayes Classification (20 mins)
+   * Overview
+   * Hands-on code examples
+   * When to use and when not to use Naive Bayes Classification
+
+BREAK (10 mins) -------------------
+
+3) Linear Regression (15 mins)
+   * Overview
+   * Hands-on code examples
+   * When to use and when not to use Linear Regression
+
+4) Support Vector Machines (20 mins)
+   * Overview
+   * Hands-on code examples
+   * When to use and when not to use Support Vector Machines
+
+BREAK (10 mins) -------------------
+
+5) Decision Trees and Random Forests (20 mins)
+   * Overview
+   * Hands-on code examples
+   * When to use and when not to use Decision Trees
+
+6) Principal Component Analysis (PCA) (20 mins)
+   * Overview
+   * Hands-on code examples
+   * When to use and when not to use PCA
+
+7) Conclusion (10 mins)
+   * Gotchas and problems with using machine learning
+   * Places to learn more
+
+TITLE
+Scikit-learn, wrapping your head around machine learning
+
+DESCRIPTION
+Edit using Markdown.
+
+Both your title and this description are made public and displayed in the conference program to help attendees decide whether they are interested in this presentation. Limit this description to a few concise paragraphs.
+
+A gentle introduction to machine learning through scikit-learn. This tutorial will enable attendees to understand the capabilities and limitations of machine learning through hands-on code examples and fun and interesting datasets. Learn when to turn to machine learning and which tools apply to your problem. Also learn about gotchas and problems that are likely to show up when attempting to use machine learning.
+
+AUDIENCE
+1–2 paragraphs that should answer three questions: (1) Who is this tutorial for? (2) What background knowledge or experience do you expect students to have? (3) What do you expect students to learn, or to be able to do after attending your tutorial?
+
+Students that attend this tutorial should have a basic understanding of the following:
+* Python, to include importing libraries, writing simple functions, using datatypes such as dicts, sets and lists, and reading and writing files
+* The use of simple Jupyter/IPython notebooks
+* Familiarity with pandas and dataframes will be useful
+
+NOTE: previous knowledge of machine learning OR scikit-learn is not required.
+
+OUTLINE
+
+Make an outline that lists the topics and activities you will guide your students through over the 3 hours of your tutorial. Provide timings for each activity — indicate when and for how long you will lecture, and when and for how long students will be tackling hands-on exercises. This is a very important criteria! Generally speaking, the more detailed the outline, the more confidence the committee will have that you can deliver the material in the allotted time.
+
+ADDITIONAL NOTES
+
+(a) If you have offered this tutorial before, please provide links to the material and video, if possible. Otherwise, please provide links to one (or two!) previous presentations by each speaker. (b) Please summarize your teaching or public speaking experience and your experience with the subject of the tutorial. (c) Let us know if you have specific needs or special requests — for example, requests that involve accessibility, audio, or restrictions on when your talk can be scheduled.
+
+a) The material in this tutorial is based on a planned series of scikit-learn mentoring sessions designed for the PyHawaii Python meetup. These mentoring sessions are first taught to members of PyHawaii as a community service and are then delivered to clients in the data analysis industry. Thus this mentoring material will undergo at least two cycles of revision before being taught a Pycon.
+
+I am the past Chair of the Python Education Summit (held annually at PyCon) and have given technical presentations at Pycon, PyHawaii and PyOhio, in business settings, at the collegiate level and for high schoolers and youth. At Pycon and PyOhio, I host the 3-hour workshop on Preparing to Contribute to Open Source using git, virtual environments and Github. At PyHawaii, I am the lead instructor for our fortnightly mentoring sessions. I am the founder and lead instructor for Dark Art of Coding, a programming school. I served as adjunct faculty, teaching Programming in Python, at the University of Hawaii: (https://www.sis.hawaii.edu/uhdad/avail.class?i=MAN&t=201740&c=92245)
+
+b) I have been teaching technical computer-related topics for decades to a wide range of students, young and old, newbie to advanced. Through this experience, I have been able to evolve a teaching style that helps to match the message to the student: easing students into a subject at a pace that matches their knowledge level. Some examples of my training courses include:
+
+* Statistics and probability: your first steps on the road to data science (3 hours) @ Pycon 2018 (https://www.youtube.com/watch?v=zzbw0JbiI6Y)
+* Introduction to Bokeh: data visualization (3 hours) @ Pycon 2017 (https://www.youtube.com/watch?v=xId9B1BVusA)
+* Jupyter: Introduction to Jupyter Lab/Notebooks Tutorial (3 hours)
+* Python for Analysts bootcamp (40 hours)
+* Founder/Lead instructor for Dark Art of Coding (Intro to Programming with Python & Automating Everyday Tasks Using Python)
+* Adjunct Faculty, University of Hawaii, Introduction to Programming
+* Lead instructor for DjangoGirls Workshop (10 hours)
+* Preparing to Contribute to Open Source (4 hours)
+* Operating System and Network Security at Champlain College
+* Operating System Fundamentals
+* BASH Scripting
+* Windows Exploitation
+* Linux Exploitation
+
+
+
+BIO:
+Chalmer Lowe has served on Pycon's Python Education Summit Committee for many years. He helps run the Pycon Sprint Workshops every year. He founded Dark Art of Coding, a programming school. Chalmer founded PyHawaii. He performs data analysis for his employer: Booz Allen Hamilton and teaches Python to his colleagues, clients and anyone who will stand still long enough. Chalmer has a long history in the cyber security and programming fields including: Python, scripting/automation, penetration testing, vulnerability assessment, incident response, intel analysis, data analysis and the fundamentals of data science.
