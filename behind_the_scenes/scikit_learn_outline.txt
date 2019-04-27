@@ -1,8 +1,8 @@
 -------------------------------------------------------------
 
 0) Introduction: (10 mins - discussion)
-   * Teacher introduction
-   * Agenda overview
+   * Teacher introduction [95% done]
+   * Agenda overview [95% done]
    * Accessing the course material
      > Individual student environments and course material (notebooks and
        datafiles) will be hosted in a Jupyter Hub and accessible via the
